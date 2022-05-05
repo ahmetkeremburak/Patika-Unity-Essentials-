@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\bin\Debug\net6.0\Tip_Değiştirme.exe
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\bin\Debug\net6.0\Tip_Değiştirme.deps.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\bin\Debug\net6.0\Tip_Değiştirme.runtimeconfig.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\bin\Debug\net6.0\Tip_Değiştirme.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\bin\Debug\net6.0\Tip_Değiştirme.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\refint\Tip_Değiştirme.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\Tip_Değiştirme.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Tip_Değiştirme\obj\Debug\net6.0\ref\Tip_Değiştirme.dll

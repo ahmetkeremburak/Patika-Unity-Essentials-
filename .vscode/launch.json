@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Değişkenler/bin/Debug/net5.0/Değişkenler.dll",
+            "program": "${workspaceFolder}/Hata_Yonetimi/bin/Debug/net5.0/Hata_Yonetimi.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Değişkenler",
+            "cwd": "${workspaceFolder}/Hata_Yonetimi",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },

@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\bin\Debug\net6.0\While_Foreach_Donguleri.exe
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\bin\Debug\net6.0\While_Foreach_Donguleri.deps.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\bin\Debug\net6.0\While_Foreach_Donguleri.runtimeconfig.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\bin\Debug\net6.0\While_Foreach_Donguleri.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\bin\Debug\net6.0\While_Foreach_Donguleri.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\refint\While_Foreach_Donguleri.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\While_Foreach_Donguleri.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\While_Foreach_Donguleri\obj\Debug\net6.0\ref\While_Foreach_Donguleri.dll

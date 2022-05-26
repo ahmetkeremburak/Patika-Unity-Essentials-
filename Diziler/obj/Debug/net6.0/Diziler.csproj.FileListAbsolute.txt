@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\bin\Debug\net6.0\Diziler.exe
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\bin\Debug\net6.0\Diziler.deps.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\bin\Debug\net6.0\Diziler.runtimeconfig.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\bin\Debug\net6.0\Diziler.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\bin\Debug\net6.0\Diziler.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\refint\Diziler.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\Diziler.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler\obj\Debug\net6.0\ref\Diziler.dll

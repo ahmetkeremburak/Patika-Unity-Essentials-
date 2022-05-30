@@ -1,0 +1,15 @@
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\bin\Debug\net6.0\Diziler_Array_Sinif_Methodlari.exe
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\bin\Debug\net6.0\Diziler_Array_Sinif_Methodlari.deps.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\bin\Debug\net6.0\Diziler_Array_Sinif_Methodlari.runtimeconfig.json
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\bin\Debug\net6.0\Diziler_Array_Sinif_Methodlari.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\bin\Debug\net6.0\Diziler_Array_Sinif_Methodlari.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.AssemblyInfoInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.AssemblyInfo.cs
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\refint\Diziler_Array_Sinif_Methodlari.dll
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.pdb
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\Diziler_Array_Sinif_Methodlari.genruntimeconfig.cache
+C:\Users\Kerem\Desktop\Pratikler\Patika-Unity-Essentials-\Diziler_Array_Sinif_Methodlari\obj\Debug\net6.0\ref\Diziler_Array_Sinif_Methodlari.dll
